@@ -1,0 +1,12 @@
+{
+  "name": "expressts",
+  "version": "1.0.0",
+  "description": "Projeto back-end utilizando express e TS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
